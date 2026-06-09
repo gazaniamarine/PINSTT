@@ -1,6 +1,6 @@
 # PINSTT — Physics-Informed Neural Spatiotemporal Tubes
 
-An independent implementation of the paper:
+An implementation of the paper:
 
 > **Learning Spatiotemporal Tubes for Temporal Reach-Avoid-Stay Tasks using Physics-Informed Neural Networks**  
 > Ahan Basu, Ratnangshu Das, Pushpak Jagtap  
